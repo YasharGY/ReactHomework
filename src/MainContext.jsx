@@ -1,9 +1,9 @@
 import React from 'react';
 import { Cart } from './Cart';
 import style from './Content.module.css'
-import Image1 from 'C:\\Users\\Admin\\Desktop\\ReactHomework\\homework\\src\\we_icon_1.svg'
-import Image2 from 'C:\\Users\\Admin\\Desktop\\ReactHomework\\homework\\src\\we_icon_2.svg'
-import Image3 from 'C:\\Users\\Admin\\Desktop\\ReactHomework\\homework\\src\\we_icon_3.svg'
+import Image1 from 'C:\\Users\\HP\\Desktop\\ReactHomework\\src\\we_icon_1.svg'
+import Image2 from 'C:\\Users\\HP\\Desktop\\ReactHomework\\src\\we_icon_2.svg'
+import Image3 from 'C:\\Users\\HP\\Desktop\\ReactHomework\\src\\we_icon_3.svg'
 
 
 const Main = () => {

@@ -1,8 +1,8 @@
 import React from 'react';
-import style from './Content.module.css'
-export function  Cart({imageSrc,description,title}){
+import style from './Card.module.css'
+export function  Card({imageSrc,description,title}){
     return (
-        <div className={style.Cart}>
+        <div className={style.Card}>
            <img src={imageSrc}  alt="" />
            <h2>{title}</h2>
            <p>{description}</p>

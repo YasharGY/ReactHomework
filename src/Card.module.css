@@ -2,7 +2,7 @@
     display: flex;
     justify-content: space-between;
 }
-.Cart{
+.Card{
     height: 450px;
     border: 1px solid  rgb(223, 228, 235);
     border-radius: 6px;
@@ -15,24 +15,24 @@
     text-align: center;
     transition: transform 400ms ease;
 }
-.Cart > img{
+.Card > img{
     margin-top: 20px;
     padding-top: 20px;
     width: 252px;
     height: 232px;
 }
-.Cart h2{
+.Card h2{
 font-weight: 600;
 font-size: 22px;
 color: #222222;
 padding: 20px 0 0 0 ;
 }
-.Cart p{
+.Card p{
     color:  #666974;
     font-size: 16px;
     padding: 20px 10px;
 }
-.Cart:hover{
+.Card:hover{
     transform: scale(104%);
     cursor: pointer;
 }
