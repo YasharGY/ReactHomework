@@ -1,0 +1,37 @@
+.HeaderButton {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    justify-content: space-between;
+    font-family: 'Poppins', sans-serif;
+    background-color: white;
+    padding: 10px 20px;
+    border-radius: 10px;
+    font-weight: 600;
+    font-size: 15px;
+    color: #222222;
+    border: 3px solid  rgb(223, 228, 235);
+    cursor: pointer;
+    transition:  400ms ease;
+}
+.HeaderButton>img {
+    width: 25px;
+    padding-bottom: 2px;
+    margin-right: 3px;
+}
+.Header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.HeaderText{
+    color: #2d3192;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 27px;
+}
+.HeaderButton:hover {
+    border-color: #ff931e;
+    margin-right: 0 !important;
+
+}
